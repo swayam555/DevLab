@@ -23,3 +23,4 @@ task testApp(type: NpmTask) {
 task startApp(type: NpmTask) {
     args = ['start']
 }
+ 
