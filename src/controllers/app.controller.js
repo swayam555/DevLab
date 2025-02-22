@@ -5,3 +5,4 @@ const getStatus = (req, res) => {
     res.json({ status: "dope-shi server is live!" });
 };
 exports.getStatus = getStatus;
+ 
